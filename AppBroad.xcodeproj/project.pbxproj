@@ -79,6 +79,11 @@
 		5A8FF05B1A9BE3500056D146 /* AppBroad */ = {
 			isa = PBXGroup;
 			children = (
+				5A8FF0841A9BE6710056D146 /* Model */,
+				5A8FF0831A9BE6640056D146 /* ViewModels */,
+				5A8FF0821A9BE65B0056D146 /* View */,
+				5A8FF0811A9BE6450056D146 /* Controllers */,
+				5A8FF0801A9BE6320056D146 /* Main */,
 				5A8FF05E1A9BE3500056D146 /* AppDelegate.swift */,
 				5A8FF0601A9BE3500056D146 /* MasterViewController.swift */,
 				5A8FF0621A9BE3500056D146 /* DetailViewController.swift */,
@@ -113,6 +118,41 @@
 				5A8FF0751A9BE3500056D146 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		5A8FF0801A9BE6320056D146 /* Main */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Main;
+			sourceTree = "<group>";
+		};
+		5A8FF0811A9BE6450056D146 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Controllers;
+			sourceTree = "<group>";
+		};
+		5A8FF0821A9BE65B0056D146 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = View;
+			sourceTree = "<group>";
+		};
+		5A8FF0831A9BE6640056D146 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = ViewModels;
+			sourceTree = "<group>";
+		};
+		5A8FF0841A9BE6710056D146 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
